@@ -1,3 +1,4 @@
-SaveWebpage
-  =====
-  When i saw an article(a webpage), i want to save the webpage on my iphone so i can read offline laterly, so i have an idea: save the web page on my mobile device by scanning the webpage's QR-code.(It's only an idea now)
+SaveWebpage 
+===================================  
+  用手机扫描网页的二维码，然后把网页内容保存到手机上（可以保存为PDF格式或其他），功能类似Pocket，但是Pocket不支持扫码。
+  暂时有这个想法，有空再慢慢研究吧。
